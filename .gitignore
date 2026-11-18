@@ -1,0 +1,6 @@
+
+.DS_Store
+.venv/
+/Multilabel_Text_Classification_Project.*
+*.pdf
+!/Multilabel_Text_Classification_Project.pdf
